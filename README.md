@@ -7,7 +7,7 @@ Our code is going to command the Parrot drone to fly in a circle whilst taking p
 
 Like services, an action must have both an action server and an action client.
 
-To execute the current repo:
+To execute the current repo (within a package 'action_ex_pkg' with rospy as a dependency):
 
 ```roslaunch ardrone_as action_server.launch```
 
